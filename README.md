@@ -1,6 +1,8 @@
 # composant-suspense
 
-This template should help get you started developing with Vue 3 in Vite.
+# View page
+![Description de l'image](https://github.com/hNnicolas/composant-suspense/blob/main/public/images/screenshot-2.png)
+![Description de l'image](https://github.com/hNnicolas/composant-suspense/blob/main/public/images/screenshot-1.png)
 
 ## Recommended IDE Setup
 
@@ -26,13 +28,7 @@ npm install
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
